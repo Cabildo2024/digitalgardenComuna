@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/comuna-elena-enriquez/fotos/fotos/"}
+{"dg-publish":true,"permalink":"/comuna-elena-enriquez/fotos/fotos/","dgPassFrontmatter":true}
 ---
 
 FOTOS 1

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/comuna-elena-enriquez/fotos/inicio/","tags":["gardenEntry"]}
+{"dg-home":true,"dg-publish":true,"permalink":"/comuna-elena-enriquez/fotos/inicio/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 PAGINA CON INFORMACIÓN DE LA COMUNA ELENA ENRIQUEZ
