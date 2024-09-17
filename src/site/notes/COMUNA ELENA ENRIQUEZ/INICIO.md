@@ -27,8 +27,9 @@ CALDERÓN
 ---
 
 ### IDIOMA
+ 
+ ESPAÑOL
 
----
 
 ### VESTUARIO
 
