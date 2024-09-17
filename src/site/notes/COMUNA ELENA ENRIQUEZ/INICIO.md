@@ -2,18 +2,12 @@
 {"dg-home":true,"dg-publish":true,"permalink":"/comuna-elena-enriquez/inicio/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-# **COMUNA ELENA ENRIQUEZ ESPINOSA**
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-
-</div></div>
 
 ![Pasted image 20240916182520.png](/img/user/COMUNA%20ELENA%20ENRIQUEZ/GALER%C3%8DA/Pasted%20image%2020240916182520.png)
+
+
+# **COMUNA ELENA ENRIQUEZ ESPINOSA**
 
 ### FUNDACIÓN
 
