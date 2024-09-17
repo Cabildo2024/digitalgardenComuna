@@ -43,6 +43,12 @@ CALDERÓN
 
 ### PRODUCTOS AGRICOLAS
 
+ALGARROBO
+       ![Pasted image 20240917105152.png](/img/user/COMUNA%20ELENA%20ENRIQUEZ/ANEXOS/Pasted%20image%2020240917105152.png)
+
+
+
+
 
 ---
 
