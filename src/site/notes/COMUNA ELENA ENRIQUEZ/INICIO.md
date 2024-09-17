@@ -2,9 +2,9 @@
 {"dg-home":true,"dg-publish":true,"permalink":"/comuna-elena-enriquez/inicio/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-## PAGINA CON INFORMACIÓN DE LA COMUNA ELENA ENRIQUEZ
+## **PAGINA CON INFORMACIÓN DE LA COMUNA ELENA ENRIQUEZ**
 
-### DAT
+### INFORMACIÓN
 - AVISOS
 - INFORMES
 - *CONVOCATORIAS* 
