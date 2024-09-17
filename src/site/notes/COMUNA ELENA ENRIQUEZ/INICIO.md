@@ -10,6 +10,41 @@
 
 FUNDADA EL 29 DE SEPTIEMBRE DE 1981 
 
+---
+
+### UBICACIÓN
+
+
+---
+
+### IDIOMA
+
+---
+
+### VESTUARIO
+
+---
+
+### GASTRONOMÍA
+
+
+---
+
+
+### COSTUMBRES Y TRADICIONES
+
+
+---
+
+### PRODUCTOS AGRICOLAS
+
+
+---
+
+
+## GALERÍA
+
+
 
 
 
