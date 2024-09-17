@@ -31,6 +31,7 @@ CALDERÓN
 
 ### GASTRONOMÍA
 
+- CALDO DE GALLINA
 
 ---
 
