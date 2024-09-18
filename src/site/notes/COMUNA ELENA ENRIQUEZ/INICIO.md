@@ -42,16 +42,8 @@ CALDERÓN
 ---
 
 ### PRODUCTOS AGRICOLAS
+![FOTOS PLANTAS 01.png](/img/user/COMUNA%20ELENA%20ENRIQUEZ/ANEXOS/FOTOS%20PLANTAS%2001.png)
 
-ALGARROBO
-       ![Pasted image 20240917105152.png|500](/img/user/COMUNA%20ELENA%20ENRIQUEZ/ANEXOS/Pasted%20image%2020240917105152.png)
-
-
-
-| ![[Pasted image 20240917105152.png\|500]] | ![[Pasted image 20240917105152.png\|500]] |
-| ----------------------------------------- | ----------------------------------------- |
-| penco                                     |                                           |
-| ![[Pasted image 20240917105152.png\|500]] |                                           |
 
 
 
